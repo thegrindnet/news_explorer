@@ -1,0 +1,9 @@
+.header {
+  margin: 0 auto;
+  /* position: relative; */
+  height: 576px;
+  background-image: url("../../assets/header-background.svg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
